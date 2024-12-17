@@ -283,7 +283,6 @@ PRODUCT_PACKAGES += \
     libOpenCL \
     libOpenCL_adreno \
     libVkLayer_q3dtools \
-    libadreno_app_profiles \
     libadreno_utils \
     libadsprpc \
     libbluetooth_audio_session_qti \
