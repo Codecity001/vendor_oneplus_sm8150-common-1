@@ -985,7 +985,12 @@ PRODUCT_PACKAGES += \
     vendor_lib_libq3dtools_adreno_so \
     vendor_lib64_libEGL_adreno_so \
     vendor_lib64_libGLESv2_adreno_so \
-    vendor_lib64_libq3dtools_adreno_so
+    vendor_lib64_libq3dtools_adreno_so \
+    libarcsoft_dualcam_bokeh_api_vendor_so \
+    libarcsoft_dualcam_refocus_left_vendor_so \
+    libarcsoft_dualcam_refocus_preview_vendor_so \
+    libarcsoft_dualcam_refocus_right_vendor_so \
+    libarcsoft_dualcam_refocus_uw_vendor_so
 
 PRODUCT_BOOT_JARS += \
     WfdCommon
