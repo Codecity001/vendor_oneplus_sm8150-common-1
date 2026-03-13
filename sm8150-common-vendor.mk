@@ -324,6 +324,7 @@ PRODUCT_PACKAGES += \
     libvpplibrary \
     libxml \
     vendor.dolby.hardware.dms@2.0 \
+    vendor.qti.hardware.cvp@1.0 \
     vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
@@ -479,6 +480,7 @@ PRODUCT_PACKAGES += \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
+    libOmxVpp \
     libQSEEComAPI \
     libQTEEConnector_vendor \
     libSecureUILib \
@@ -523,7 +525,10 @@ PRODUCT_PACKAGES += \
     libcom.qti.chinodeutils \
     libcpion \
     libcvface_api \
+    libcvp \
     libcvp_common \
+    libcvp_stub \
+    libcvpcpuRev_skel \
     libdataitems \
     libdisp-aba \
     libdisplayqos \
