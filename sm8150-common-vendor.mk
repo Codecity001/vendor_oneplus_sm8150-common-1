@@ -351,6 +351,7 @@ PRODUCT_PACKAGES += \
     libconfigdb \
     libdapparamstorage \
     libdapparamstorage-dolby \
+    libdapparamstorage-spatial \
     libdiag \
     libdsi_netctrl \
     libdsutils \
@@ -395,6 +396,7 @@ PRODUCT_PACKAGES += \
     libvpplibrary \
     libxml \
     vendor.dolby.hardware.dms@2.0 \
+    vendor.dolby.hardware.dms@2.0-spatial \
     vendor.qti.hardware.cvp@1.0 \
     vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.vpp@1.1 \
@@ -458,6 +460,7 @@ PRODUCT_PACKAGES += \
     libshoebox \
     libswdap \
     libswgamedap \
+    libswspatializer \
     libswvqe \
     vendor.qti.hardware.audiohalext@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
@@ -554,6 +557,7 @@ PRODUCT_PACKAGES += \
     libQTEEConnector_vendor \
     libSecureUILib \
     libstagefright_foundation-dolby \
+    libstagefright_foundation-spatial \
     libSonyIMX471RmscLibrary \
     libStDrvInt \
     lib_bokehlib \
@@ -691,7 +695,7 @@ PRODUCT_PACKAGES += \
     libsnsapi \
     libsnsdiaglog \
     libsoc_helper \
-    libspatialaudio \
+    libspatializerparamstorage \
     libspcom \
     libspl \
     libssc \
